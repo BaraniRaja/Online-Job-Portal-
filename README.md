@@ -1,4 +1,3 @@
-# Online-Job-Portal-
 
 # Online Job Portal  
 A web-based job portal system built using **Spring Boot, Hibernate, and MySQL**.  
